@@ -1,1 +1,1 @@
-Days 16-100. All my work.If you are here to look for solutions, I heavily suggest you only look to get an idea and then go write your own code. If you copy/paste you lose out on learning the necessary fundamentals. Will add each day as I complete them.
+Days 16-100. All my work. If you are here to look for solutions, I heavily suggest you only look to get an idea and then go write your own code. If you copy/paste you lose out on learning the necessary fundamentals. I will add each day as I complete them.
